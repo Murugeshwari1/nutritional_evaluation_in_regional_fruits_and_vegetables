@@ -4,7 +4,7 @@ It is imperative to take great measures of nutrition facts to stay away from dif
 **DATA COLLECTION** 
 
 
-![lemon_image](https://github.com/user-attachments/assets/fc41c1f2-439a-40a7-aa8f-b597dda214fd)
+![7](https://github.com/user-attachments/assets/af04c382-c9b9-4635-b219-b4642eabc535)
 
 
 ![1](https://github.com/user-attachments/assets/868dd498-ffd6-42d3-9dea-8b721925bf05)
