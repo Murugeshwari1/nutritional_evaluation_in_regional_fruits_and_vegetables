@@ -14,3 +14,22 @@ It is imperative to take great measures of nutrition facts to stay away from dif
 
 ![2](https://github.com/user-attachments/assets/81b261a7-ef36-440f-86ac-033139dd1a4d)
 ![3](https://github.com/user-attachments/assets/905835ba-b83a-4a72-b917-822b9a684aab)
+
+
+**CLASSIFICATION OF FRUITS AND VEGETABLES USING CNN**
+
+
+![4](https://github.com/user-attachments/assets/ae1c59d0-541e-42a7-87d0-f86c8a2bd62a)
+![5](https://github.com/user-attachments/assets/1eee0dc7-9773-4609-9c46-acaff40817a5)
+
+
+**TRAINING AND VALIDATION ACCURACY**
+
+![6](https://github.com/user-attachments/assets/99f374eb-bdc5-439a-9cc5-7fe36635891c)
+
+
+**FRONTEND**
+
+
+![WhatsApp Image 2024-07-20 at 6 56 59 PM](https://github.com/user-attachments/assets/a510e1f4-4751-4d18-bf4b-3907c5f378bf)
+![WhatsApp Image 2024-07-20 at 6 57 27 PM](https://github.com/user-attachments/assets/2ca3c8f2-ff80-4f08-a899-b53938d84311)
